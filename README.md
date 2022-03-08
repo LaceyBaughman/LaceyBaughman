@@ -8,7 +8,7 @@ endless opportunities to be creative.
 
 🔭 I’m currently working on: completing my certification in Full-Stack software Development from Boise Codeworks by the end of April. 
 
-🌱 I’m currently learning: the MVC pattern and working with API's. 
+🌱 I’m currently learning: how to use Vue! I love it!
 
 ⚡ Fun facts about me: I love gardening, all things horses, farming, RPG games, sandbox survival games, my favorite DND class to play is druid, and my favorite genres to read are fantasy, scifi, psychology, and socio-cultural journalism. 
 
